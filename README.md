@@ -2,5 +2,5 @@
 
 **Teste**
 
-Aula estudo.....Esse é um projeto de Deep.....
+Aula estudo.....Esse é um projeto de Deeplearning .....
 
